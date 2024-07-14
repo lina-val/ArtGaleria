@@ -4,76 +4,76 @@
             "id": 1,
             "titulo": "SIN TITULO 01. SERIE. APARIENCIA ORDENADA – CARMEN VELA – 90X190X65CM
 ",
-            "Pintura": "img1",
+            "Pintura": "img/img1.jpg",
             "Precio":"1.198,35€"
         },
         {
             "id": 2,
             "titulo": "BLUE UMBRELLA – ARMANDO RABADÁN – 200X140CM
 ",
-            "Pintura": "img2",
+            "Pintura": "img/img2",
             "Precio":"2.933,88€"
         },
         {
             "id": 3,
             "titulo": "OP.180121 – GYULA SAGI – 50X70CM",
-            "Pintura": "img3",
+            "Pintura": "img/img3",
             "Precio":"314,05€"
         },
         {
             "id": 4,
             "titulo": "SIN TÍTULO -SALVADOR JIMENEZ-DONAIRE – 23,5X21X5 CM",
-	    "Pintura": "img4",
+	    "Pintura": "img/img4",
             "Precio":"743,80€"
             
         },
         {
             "id": 5,
             "titulo": "2055 DIFERENCIA Y REPETICIÓN – ALBERTO GIL CASEDAS – 23X14CM (DOS TOMOS)",
-	    "Pintura": "img5",
+	    "Pintura": "img/img5",
             "Precio":"578,51€"
             
         },
         {
             "id": 6,
             "titulo": "10,275 KG [CUADRO DE TEXTO] – ALBERTO GIL CASEDAS – MEDIDAS VARIABLES",
-	    "Pintura": "img6",
+	    "Pintura": "img/img6",
             "Precio":"1.586,78€"
         },
         {
             "id": 7,
             "titulo": "SIN TÍTULO – SALVADOR JIMENEZ-DONAIRE -30X30CM",
-	    "Pintura": "img7",
+	    "Pintura": "img/img7",
             "Precio":"495,87€"
         },
         {
             "id": 8,
             "titulo": "OP. 169- GYULA SAGI – 52X42CM",
-	    "Pintura": "img8",
+	    "Pintura": "img/img8",
             "Precio":"553,72€"
         },
         {
             "id": 9,
             "titulo": "SIN TÍTULO IG4- ISABEL GISBERT – 42×30 CM",
-	    "Pintura": "img9",
+	    "Pintura": "img/img9",
             "Precio":"314,05€"
         },
         {
             "id": 10,
             "titulo": "TATE BASURA- ÁNGEL PANTOJA – 200×350 CM",
-	    "Pintura": "img10",
+	    "Pintura": "img/img10",
             "Precio":"429,75€"
         },
         {
             "id": 11,
             "titulo": "SIN TITULO 02. SERIE. APARIENCIA ORDENADA – CARMEN VELA – 41X30CM",
-	    "Pintura": "img11",
+	    "Pintura": "img/img11",
             "Precio":"459,75€"
         },
         {
             "id": 12,
             "titulo": "COMPLEMENTOS DE UN INTERIOR – JESÚS JIMÉNEZ MEDINA – 130×97 CM",
-	    "Pintura": "img12",
+	    "Pintura": "img/img12",
             "Precio":"1.528,93€"
         },
       
